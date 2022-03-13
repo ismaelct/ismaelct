@@ -1,10 +1,11 @@
 <h1 align="center">Hola, soy Ismael</h1>
 <h3 align="center">Un estudiante de IT y gamer embebido por la programación. :D</h3>
 
-- 📫 How to reach me **ismaelct.es@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+- 📫 How to reach me **ismaelct.es@gmail.com**
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
